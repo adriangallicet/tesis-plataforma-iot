@@ -62,6 +62,14 @@ en tiempo real.
 👉 Repositorio:  
 https://github.com/adriangallicet/plataforma-IoT
 
+## Documento de tesis
+
+El documento completo del trabajo, donde se describe el diseño conceptual,
+la arquitectura del sistema y el proceso de desarrollo, se encuentra disponible en:
+
+📄 https://docs.google.com/document/d/1W36_iQEKb8CZaM5dWwVYeTbvXX8ZUFgp/edit?usp=sharing&ouid=107966421185917265597&rtpof=true&sd=true
+
+
 
 ## 🚧 Estado del proyecto
 

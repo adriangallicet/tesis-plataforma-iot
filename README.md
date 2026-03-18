@@ -17,7 +17,7 @@ y administrarlos desde una plataforma web.
 
 ## 🧩 Arquitectura general
 
-  <img src="infografiaProyecto.jpg" alt="Diagrama" style="max-width: 250px; width: 80%;" >
+  <img src="infografiaProyecto.jpg" alt="Diagrama" style="max-width: 250px; width: 75%;" >
 
 
 La solución está compuesta por los siguientes módulos:

@@ -58,6 +58,18 @@ https://github.com/adriangallicet/plataforma-IoT
 👉 Documentación de la API:
 https://adriangallicet.github.io/api_doc/
 
+### 📊 Benchmark – Medición de RTT
+
+Herramienta para medir y caracterizar el comportamiento temporal de la comunicación MQTT<br> entre un cliente de prueba y un actuador/dispositivo, tanto en condiciones normales como<br> de red degradada.
+
+👉 Repositorio: https://github.com/adriangallicet/benchmark
+
+### 📈 Benchmark – Escalabilidad
+
+Herramienta para medir cómo se comporta el broker MQTT (EMQX) ante un número creciente<br> de conexiones concurrentes, sin necesitar hardware adicional.
+
+👉 Repositorio: https://github.com/adriangallicet/benchmark_escalabilidad
+
 ## Documento de tesis
 
 El documento completo del trabajo, donde se describe el diseño conceptual,
